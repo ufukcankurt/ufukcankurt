@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ufukcankurt-ufukcankurt">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ufukcankurt&label=Profile%20views&color=ff69b4&style=flat" alt="ufukcankurt" />
