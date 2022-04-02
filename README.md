@@ -30,7 +30,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning Javascript & React.js
+  📚 I’m currently learning Javascript Technologies
   <br>
   📫 How to reach me: <a href="mailto: ufuk.cnk@gmail.com">ufuk.cnk@gmail.com</a>
   <br><br>
