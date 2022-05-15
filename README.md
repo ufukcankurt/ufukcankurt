@@ -26,11 +26,11 @@
    <br>
   🔬 I'm currently studying for a bachelor's degree in Pamukkale University
   <br>
-  🎓 I graduated from Yasar Saniye Gemici High School
-  <br>
   💻 I love writing code and learn anythings about it
   <br>
   📚 I’m currently learning Javascript Technologies
+  <br>
+  🛠 I’m currently working on MERN project
   <br>
   📫 How to reach me: <a href="mailto: ufuk.cnk@gmail.com">ufuk.cnk@gmail.com</a>
   <br><br>
