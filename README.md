@@ -21,7 +21,7 @@
 
 <br>
 <p align="center">
-  Computer Engineer & Front-end Developer 
+  Computer Engineer & Front-end Developer
   <br>
    <br>
   🔬 I'm currently studying for a bachelor's degree in Pamukkale University
@@ -30,7 +30,7 @@
   <br>
   📚 I’m currently learning Javascript Technologies
   <br>
-  🛠 I’m currently working on MERN project
+  🛠 I’m currently working at @FactSet as Front-end Developer
   <br>
   📫 How to reach me: <a href="mailto: ufuk.cnk@gmail.com">ufuk.cnk@gmail.com</a>
   <br><br>
