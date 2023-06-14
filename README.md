@@ -30,6 +30,8 @@
   <br>
   📚 I’m currently learning Javascript Technologies
   <br>
+  🛠 I’m currently working at @FactSet as Front-end Developer
+  <br>
   📫 How to reach me: <a href="mailto: ufuk.cnk@gmail.com">ufuk.cnk@gmail.com</a>
   <br><br>
   📍 Denizli, Turkey
@@ -66,11 +68,6 @@
 
 <div align=center>
 
-<a href="https://github.com/ufukcankurt">
-<img height="165em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ufukcankurt&show_icons=true&theme=gotham" />
-</a>
-<a href="https://github.com/ufukcankurt">
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=ufukcankurt&theme=buefy-dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=313F56&ring=601BDD&fire=2D5CDD&currStreakNum=2DB4DD&sideNums=1B96DD&sideLabels=077ADD&currStreakLabel=5C07DD" />
-</a>
+![Ufuk Can Kurt's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ufukcankurt&show_icons=true&theme=gotham)
 
 </div>
