@@ -21,10 +21,10 @@
 
 <br>
 <p align="center">
-  Computer Engineer & Front-end Developer 
+  Computer Engineer & Front-end Developer
   <br>
    <br>
-  🔬 I'm currently studying for a bachelor's degree in Pamukkale University
+  🎓 I graduated from a bachelor's degree in Pamukkale University
   <br>
   💻 I love writing code and learn anythings about it
   <br>
