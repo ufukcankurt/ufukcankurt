@@ -1,9 +1,4 @@
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ufukcankurt&label=Profile%20views&color=ff69b4&style=flat" alt="ufukcankurt" />
-
-
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -30,16 +25,12 @@
   <br>
   📚 I’m currently learning Javascript Technologies
   <br>
-  🛠 I’m currently working at @FactSet as Front-end Developer
+  🛠 I’m currently working at @FactSet as Software Engineer
   <br>
   📫 How to reach me: <a href="mailto: ufuk.cnk@gmail.com">ufuk.cnk@gmail.com</a>
   <br><br>
   📍 Denizli, Turkey
 </p>
-
-
-
-
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
