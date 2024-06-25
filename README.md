@@ -16,14 +16,12 @@
 
 <br>
 <p align="center">
-  Computer Engineer & Front-end Developer
+  Software Engineer
   <br>
    <br>
   🎓 I graduated from a bachelor's degree in Pamukkale University
   <br>
   💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning Javascript Technologies
   <br>
   🛠 I’m currently working at @FactSet as Software Engineer
   <br>
