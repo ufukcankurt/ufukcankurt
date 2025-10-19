@@ -19,7 +19,7 @@
   Software Engineer
   <br>
    <br>
-  🎓 I graduated from a bachelor's degree in Pamukkale University
+  🎓 I graduated with a bachelor's degree in Computer Science from Pamukkale University.
   <br>
   💻 I love writing code and learn anythings about it
   <br>
@@ -40,23 +40,19 @@
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img title="Vue" height="25" src="images/vue.svg"></code>
+  <code><img title="Typescript" height="25" src="images/typescript.svg"></code>
+  <code><img title="NodeJs" height="25" src="images/nodejs2.svg"></code>
+  <code><img title="Storybook" height="25" src="images/storybook2.svg"></code>
+  <code><img title="MongoDB" height="25" src="images/mongodb2.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="Playwright" height="25" src="images/playwright.svg"></code>
+  <code><img title="Testing" height="25" src="images/testing.svg"></code>
+  <code><img title="SCSS" height="25" src="images/scss.svg"></code>
   <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <!-- <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code> -->
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
 
 </p>
 <hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-<div align=center>
-
-![Ufuk Can Kurt's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ufukcankurt&show_icons=true&theme=gotham)
-
-</div>
