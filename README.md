@@ -56,3 +56,10 @@
 
 </p>
 <hr>
+
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ufukcankurt&theme=github-dark&hide_border=true&border_radius=" alt="GitHub Streak" />
+  </a>
+</p>
